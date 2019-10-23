@@ -1,0 +1,7 @@
+Story-Telling is an application which is based on android app. 
+You may not be knowing about this app, but this app can  be 
+helpful or it may be passionates for we all.Storytelling can 
+be used as a method to teach ethics, values and cultural 
+norms and differences. Learning is most effective when it 
+takes place in social environments that provide authentic 
+social cues about how knowledge is to be applied.
